@@ -1,1 +1,2 @@
 Hello Artifactory and Sonar
+This is the new line GKP 24-11
